@@ -26,13 +26,13 @@
     "db_log": {
         "host": "localhost",
         "user": "root",
-        "pass": "shit",
+        "pass": "",
         "name": "trade_log"
     },
     "db_history": {
         "host": "localhost",
         "user": "root",
-        "pass": "shit",
+        "pass": "",
         "name": "trade_history"
     },
     "assets": [
