@@ -531,3 +531,4 @@ paket-files/
 ~i_*
 ig_*
 zzzig_*
+.vscode/
